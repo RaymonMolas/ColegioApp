@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\442cc0e394ddaf3c1cea3584d585b949\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d1252c2802e07b5ed7e0d8792637c977\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9e9c35054ad2b965f0c0e737396194f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\2330945db13c44c84995cdd1ab45ceb0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\4bad138251ec1773c7370dcd578b42fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\572e7424dce662814cec2a36633c7fa0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\83077a5a5b17e4b8c3286d0a41f8fe14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\459a6cd602881affd2fa26b9792e3187\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c807d80730fa31d6d8286484fc5ae394\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\ec6ff93d83a31f0b2d56416a0c54adb4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\f9a3330202582cffb98c715d678be0d2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\b3e2fc6a6b92a9176dbe00a3513ac804\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\6177c3019b1ea3db79e84eac460dc033\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9cd92cf0a162cac451ccf66b8b2f6d97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\46844937b60fd552f4c5586072d04b61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\6b9e8892ca55e7d891479317d20338e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\ac3b62d3046b610b12dc8de86f91d1d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\18997cda3f8c86e794eeba5bc022ff45\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c70238255b45746576d814a90daa0ab7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9d2737b8f587ddc2a40bbcfef844b83c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\88fef1030ae02d4f6a51df05ce0f95cd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\47f40b8e6c8138cdcc80efd93234cc3d\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\5dc631f2d868cef51b9cea38cf546fed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c83976e79370b430e4c1bd1363cb2bda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d2c00a13b99e2d485869fe6ffcb3f5d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\67696614ea2597e678c0dc4b709a8857\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\f772fb3c335d346289bab1d4e65355c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\1b1f611a25c788879df7af0b6e636202\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\304c3c2b638c37a63f34a2e9b95f19bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c68035492a0a75b9375868fc27aa53ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\db8adcb1c1f667de777f3bcad06879c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d8fdc37e518935cabe170b87779429c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\17f61031d15e96c60930fba095f22231\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\442cc0e394ddaf3c1cea3584d585b949\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\442cc0e394ddaf3c1cea3584d585b949\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\2330945db13c44c84995cdd1ab45ceb0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\2330945db13c44c84995cdd1ab45ceb0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\88fef1030ae02d4f6a51df05ce0f95cd\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\88fef1030ae02d4f6a51df05ce0f95cd\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\47f40b8e6c8138cdcc80efd93234cc3d\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\47f40b8e6c8138cdcc80efd93234cc3d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\88fef1030ae02d4f6a51df05ce0f95cd\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.colegioapp.MainActivity
+ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\442cc0e394ddaf3c1cea3584d585b949\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\442cc0e394ddaf3c1cea3584d585b949\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d1252c2802e07b5ed7e0d8792637c977\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d1252c2802e07b5ed7e0d8792637c977\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9e9c35054ad2b965f0c0e737396194f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9e9c35054ad2b965f0c0e737396194f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\2330945db13c44c84995cdd1ab45ceb0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\2330945db13c44c84995cdd1ab45ceb0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\4bad138251ec1773c7370dcd578b42fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\4bad138251ec1773c7370dcd578b42fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\572e7424dce662814cec2a36633c7fa0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\572e7424dce662814cec2a36633c7fa0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\83077a5a5b17e4b8c3286d0a41f8fe14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\83077a5a5b17e4b8c3286d0a41f8fe14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\459a6cd602881affd2fa26b9792e3187\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\459a6cd602881affd2fa26b9792e3187\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c807d80730fa31d6d8286484fc5ae394\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c807d80730fa31d6d8286484fc5ae394\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\ec6ff93d83a31f0b2d56416a0c54adb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\ec6ff93d83a31f0b2d56416a0c54adb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\f9a3330202582cffb98c715d678be0d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\f9a3330202582cffb98c715d678be0d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\b3e2fc6a6b92a9176dbe00a3513ac804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\b3e2fc6a6b92a9176dbe00a3513ac804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\6177c3019b1ea3db79e84eac460dc033\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\6177c3019b1ea3db79e84eac460dc033\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9cd92cf0a162cac451ccf66b8b2f6d97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9cd92cf0a162cac451ccf66b8b2f6d97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\46844937b60fd552f4c5586072d04b61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\46844937b60fd552f4c5586072d04b61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\6b9e8892ca55e7d891479317d20338e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\6b9e8892ca55e7d891479317d20338e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\ac3b62d3046b610b12dc8de86f91d1d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\ac3b62d3046b610b12dc8de86f91d1d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\18997cda3f8c86e794eeba5bc022ff45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\18997cda3f8c86e794eeba5bc022ff45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c70238255b45746576d814a90daa0ab7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c70238255b45746576d814a90daa0ab7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9d2737b8f587ddc2a40bbcfef844b83c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\9d2737b8f587ddc2a40bbcfef844b83c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\88fef1030ae02d4f6a51df05ce0f95cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\88fef1030ae02d4f6a51df05ce0f95cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\47f40b8e6c8138cdcc80efd93234cc3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\47f40b8e6c8138cdcc80efd93234cc3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\5dc631f2d868cef51b9cea38cf546fed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\5dc631f2d868cef51b9cea38cf546fed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c83976e79370b430e4c1bd1363cb2bda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c83976e79370b430e4c1bd1363cb2bda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d2c00a13b99e2d485869fe6ffcb3f5d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d2c00a13b99e2d485869fe6ffcb3f5d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\67696614ea2597e678c0dc4b709a8857\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\67696614ea2597e678c0dc4b709a8857\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\f772fb3c335d346289bab1d4e65355c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\f772fb3c335d346289bab1d4e65355c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\1b1f611a25c788879df7af0b6e636202\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\1b1f611a25c788879df7af0b6e636202\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\304c3c2b638c37a63f34a2e9b95f19bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\304c3c2b638c37a63f34a2e9b95f19bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c68035492a0a75b9375868fc27aa53ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\c68035492a0a75b9375868fc27aa53ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\db8adcb1c1f667de777f3bcad06879c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\db8adcb1c1f667de777f3bcad06879c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d8fdc37e518935cabe170b87779429c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\d8fdc37e518935cabe170b87779429c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\17f61031d15e96c60930fba095f22231\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Raymon Molas\.gradle\caches\transforms-2\files-2.1\17f61031d15e96c60930fba095f22231\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Raymon Molas\AndroidStudioProjects\ColegioApp\app\src\main\AndroidManifest.xml
