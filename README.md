@@ -1,2 +1,0 @@
-# ColegioApp
-Aplicacion Para Colegio
