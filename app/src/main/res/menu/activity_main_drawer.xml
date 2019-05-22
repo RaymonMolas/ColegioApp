@@ -5,38 +5,42 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_admin"
-            android:icon="@drawable/ic_menu_admin"
-            android:title="Administrador" />
-        <item
-            android:id="@+id/nav_home"
+            android:id="@+id/nav_cursos"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:title="@string/menu_cursos" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_avisos"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_avisos" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_notas"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_notas" />
         <item
-            android:id="@+id/nav_tools"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="@string/menu_tools" />
+            android:id="@+id/nav_actividades"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_act" />
     </group>
 
-    <item android:title="Communicate">
+    <item android:title="@string/menu_contactos">
         <menu>
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="@string/menu_share" />
-            <item
-                android:id="@+id/nav_send"
+                android:id="@+id/nav_contactacnos"
                 android:icon="@drawable/ic_menu_send"
-                android:title="@string/menu_send" />
+                android:title="@string/menu_contacto" />
         </menu>
     </item>
 
+    <item android:title="@string/action_settings">
+        <menu>
+            <item
+                android:id="@+id/nav_admin"
+                android:icon="@drawable/ic_menu_admin"
+                android:title="@string/menu_admin" />
+            <item
+                android:id="@+id/nav_ajustes"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/menu_ajustes" />
+        </menu>
+    </item>
 </menu>
